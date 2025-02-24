@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorTheme": "Min Dark",
+    "window.commandCenter": false,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.compactFolders": false
+}
